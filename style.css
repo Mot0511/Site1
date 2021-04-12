@@ -1,0 +1,206 @@
+.header{
+  width: 100%;
+  height: 113px;
+
+  background: url(img/header_bg.png);
+  background-repeat: round;
+}
+.logo{
+  position: relative;
+  top: 30px;
+  left: 100px;
+}
+.menu{
+  display: flex;
+  position: absolute;
+  right: 20px;
+  top: 35px;
+}
+.home{
+  background: url(img/manu_el_page.jpg);
+}
+.menu div{
+  padding: 10px;
+  width: 100px;
+  height: 65px;
+}
+.menu div:hover{
+  padding: 10px;
+  width: 100px;
+  height: 65px;
+
+  background: url(img/bg_menuel.png);
+}
+.menu a{
+  text-decoration: none;
+  color: black;
+}
+.upload{
+  display: flex;
+  width: 710px;
+}
+.upload button{
+  width: 212px;
+  height: 50px;
+  border: 0px;
+  background: url(img/bt_bg.png);
+  margin-left: -40px;
+}
+.upload label div{
+  width: 93px;
+  height: 33px;
+  background: url(img/browse_bg.jpg);
+
+  margin-left: 280px;
+  margin-top: 8px;
+}
+.file_name_div{
+  width: 500px;
+  background: url(img/file_name_bg.png);
+  background-repeat: no-repeat;
+  margin-left: 10px;
+}
+.photos{
+  margin-left: 50px;
+  margin-top: 30px;
+  width: 980px;
+}
+.photo{
+  width: 225px;
+  height: 287px;
+  background: url(img/photo_bg.png);
+
+  float: left;
+  margin: 10px;
+}
+.photo span{
+  color: #979393;
+  font-size: 15px;
+  position: relative;
+  left: -30px;
+  width: 150px;
+}
+.image p{
+  color: lightgrey;
+  padding-top: 180px;
+  padding-right: 110px;
+}
+.star{
+  position: relative;
+  left: 37%;
+  top: -35px;
+}
+.hr{
+  position: relative;
+  top: -40px;
+
+  width: 90%;
+  height: 1px;
+
+  background: grey;
+}
+.p_share{
+  position: relative;
+  top: -50px;
+  left: -30px;
+  color: #979393;
+}
+.share_bts{
+  position: relative;
+  top: -88px;
+  left: 105px;
+  display: flex;
+}
+.t{
+  background: url(img/share_bt_1.jpg);
+  width: 22px;
+  height: 22px;
+}
+.facebook{
+  background: url(img/share_bt_2.jpg);
+  width: 22px;
+  height: 22px;
+}
+.pinterest{
+  background: url(img/share_bt_3.jpg);
+  width: 22px;
+  height: 22px;
+}
+.twitter{
+  background: url(img/share_bt_4.jpg);
+  width: 22px;
+  height: 22px;
+}
+.t:hover{
+  background: url(img/share_bt2_1.jpg);
+  width: 22px;
+  height: 22px;
+}
+.facebook:hover{
+  background: url(img/share_bt2_2.jpg);
+  width: 22px;
+  height: 22px;
+}
+.pinterest:hover{
+  background: url(img/share_bt2_3.jpg);
+  width: 22px;
+  height: 22px;
+}
+.twitter:hover{
+  background: url(img/share_bt2_4.jpg);
+  width: 22px;
+  height: 22px;
+}
+.share_bts div{
+  margin-left: 6px;
+}
+.footer{
+  width: 100%;
+  margin-top: 690px;
+  margin-left: 80%;
+}
+
+
+.image1{
+  margin-top: 10px;
+  background: url(img/photos/p1.png);
+  width: 203px;
+  height: 197px;
+}
+.image2{
+  margin-top: 10px;
+  background: url(img/photos/p2.png);
+  width: 203px;
+  height: 197px;
+}.image3{
+  margin-top: 10px;
+  background: url(img/photos/p3.png);
+  width: 203px;
+  height: 197px;
+}.image4{
+  margin-top: 10px;
+  background: url(img/photos/p4.png);
+  width: 203px;
+  height: 197px;
+}.image5{
+  margin-top: 10px;
+  background: url(img/photos/p5.png);
+  width: 203px;
+  height: 197px;
+}
+.image6{
+  margin-top: 10px;
+  background: url(img/photos/p6.png);
+  width: 203px;
+  height: 197px;
+}.image7{
+  margin-top: 10px;
+  background: url(img/photos/p7.png);
+  width: 203px;
+  height: 197px;
+}.image8{
+  margin-top: 10px;
+  background: url(img/photos/p8.png);
+  width: 203px;
+  height: 197px;
+}
